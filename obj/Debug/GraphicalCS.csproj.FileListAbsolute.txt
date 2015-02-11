@@ -1,0 +1,28 @@
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.exe
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.pdb
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\bin\Debug\GraphicalCS.exe
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\bin\Debug\GraphicalCS.pdb
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.About.resources
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.CircleForm.resources
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.Example.resources
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.MainWindow.resources
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.NewForm.resources
+C:\Users\Excalibur\Desktop\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.csproj.GenerateResource.Cache
+D:\Study\科技创新\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.exe
+D:\Study\科技创新\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.pdb
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.exe
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.pdb
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.About.resources
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.CircleForm.resources
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.Example.resources
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.MainWindow.resources
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.NewForm.resources
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.Form1.resources
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.csproj.GenerateResource.Cache
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\bin\Debug\GraphicalCS.exe
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\bin\Debug\GraphicalCS.pdb
+C:\Users\Excalibur\Documents\Visual Studio 2008\Projects\GraphicalCS\obj\Debug\GraphicalCS.Properties.Resources.resources
+D:\Study\08-09科技创新\GraphicalCS\obj\Debug\GraphicalCS.exe
+D:\Study\08-09科技创新\GraphicalCS\obj\Debug\GraphicalCS.pdb

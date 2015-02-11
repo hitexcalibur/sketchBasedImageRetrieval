@@ -1,0 +1,11 @@
+bin\Debug\GraphicalCS.exe
+bin\Debug\GraphicalCS.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GraphicalCS.About.resources
+obj\Debug\GraphicalCS.CircleForm.resources
+obj\Debug\GraphicalCS.Example.resources
+obj\Debug\GraphicalCS.MainWindow.resources
+obj\Debug\GraphicalCS.NewForm.resources
+obj\Debug\GraphicalCS.csproj.GenerateResource.Cache
+obj\Debug\GraphicalCS.exe
+obj\Debug\GraphicalCS.pdb
